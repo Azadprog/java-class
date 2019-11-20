@@ -1,0 +1,435 @@
+!SESSION 2019-11-20 21:52:54.812 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.148
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.437
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.504
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.507
+!MESSAGE Initializing Java Language Server 0.21.0.201806152234
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.756
+!MESSAGE Creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:58.980
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:52:59.396
+!MESSAGE Finished creating the default Java project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:02.482
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:02.528
+!MESSAGE Workspace initialized in 4015ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:02.578
+!MESSAGE >> java/buildWorkspace (full)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:02.632
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:05.883
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:06.204
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:07.677
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.178
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.179
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.185
+!MESSAGE Reconciled 0, validated: 1. Took 1508 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.295
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.418
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:09.743
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:10.520
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:10.521
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:10.618
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:10.619
+!MESSAGE 1 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:10.621
+!MESSAGE Reconciled 0, validated: 2. Took 465 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:15.028
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:29.809
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:30.060
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:32.882
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:33.138
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:33.481
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:33.690
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:34.328
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:34.329
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:34.379
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:34.380
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:34.382
+!MESSAGE Reconciled 0, validated: 2. Took 237 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:35.704
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:35.824
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:38.942
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:41.236
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:43.798
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:44.080
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:45.068
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:49.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:49.950
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.596
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.596
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.635
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.635
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.636
+!MESSAGE Reconciled 0, validated: 2. Took 354 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.731
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.838
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.842
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.846
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:50.849
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.428
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.429
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.474
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.509
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.510
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.511
+!MESSAGE Reconciled 0, validated: 2. Took 211 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.890
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:51.915
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:52.140
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:52.175
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:52.369
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:52.544
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:52.712
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.290
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.290
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.316
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.316
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.317
+!MESSAGE Reconciled 0, validated: 2. Took 150 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.598
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:53.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.351
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.352
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.396
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.396
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.397
+!MESSAGE Reconciled 0, validated: 2. Took 127 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.961
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:54.975
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:55.227
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:55.268
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:55.283
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:55.544
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:55.798
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.070
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.070
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.108
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.112
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.113
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.117
+!MESSAGE Reconciled 0, validated: 2. Took 168 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.441
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.928
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.928
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.966
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.967
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:56.967
+!MESSAGE Reconciled 0, validated: 2. Took 122 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.441
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.452
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.630
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.746
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.842
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:58.890
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.078
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.315
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.316
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.320
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.331
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.331
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.332
+!MESSAGE Reconciled 0, validated: 2. Took 85 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.768
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.840
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:53:59.978
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.840
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.841
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.879
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.879
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:00.880
+!MESSAGE Reconciled 0, validated: 2. Took 186 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.358
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.820
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.820
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.838
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.838
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.839
+!MESSAGE Reconciled 0, validated: 2. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:01.967
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:02.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:02.326
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:02.506
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:02.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:02.866
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.024
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.197
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.744
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.744
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.822
+!MESSAGE begin problem for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.823
+!MESSAGE 0 problems reported for /Car.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-20 21:54:03.823
+!MESSAGE Reconciled 0, validated: 2. Took 173 ms
